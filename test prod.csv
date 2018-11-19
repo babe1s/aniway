@@ -1,0 +1,26 @@
+Code barre,Nom,Categorie 1,Coût,Prix de vente,Prix HT,Categorie 2,fournisseur/ID,Marque,Type d'article,Catégorie d'article/ID,Disponible dans le PdV,Taxes à la vente/ID,Catégorie du point de vente/ID
+9329028878035,TWEED DOG COAT OLIVE 75CM,TEXTILES,15.2,35.95,29.7107,MANTEAUX,sup_weatherbeeta,Weatherbeeta,product,point_of_sale.product_category_pos,1,l10n_be.1_attn_VAT-OUT-21-L,cat_chien_habillements
+5060341661464,WILD WASH ANTI FLEA SHAMPOO,PRODUITS,8.55,16.95,14.0083,SOINS,sup_wild_wash,Wild Wash,product,point_of_sale.product_category_pos,1,l10n_be.1_attn_VAT-OUT-21-L,cat_chien_habillements
+5060341661563,WILD WASH CANDLE N2,PRODUITS,10.14,18.95,15.6612,SOINS,sup_wild_wash,Wild Wash,product,point_of_sale.product_category_pos,1,l10n_be.1_attn_VAT-OUT-21-L,cat_chien_habillements
+5484741661570,WILD WASH CANDLE N3,PRODUITS,10.14,18.95,15.6612,SOINS,sup_wild_wash,Wild Wash,product,point_of_sale.product_category_pos,1,l10n_be.1_attn_VAT-OUT-21-L,cat_chien_habillements
+5060341661570,WILD WASH CANDLE N3,PRODUITS,10.14,18.95,15.6612,SOINS,sup_wild_wash,Wild Wash,product,point_of_sale.product_category_pos,1,l10n_be.1_attn_VAT-OUT-21-L,cat_chien_habillements
+5060341660078,WILD WASH CONDITIONER 300ML,PRODUITS,8.55,16.95,14.0083,SOINS,sup_wild_wash,Wild Wash,product,point_of_sale.product_category_pos,1,l10n_be.1_attn_VAT-OUT-21-L,cat_chien_habillements
+5060341660023,WILD WASH CONDITIONING SHAMPOO 300ML,PRODUITS,8.55,16.95,14.0083,SOINS,sup_wild_wash,Wild Wash,product,point_of_sale.product_category_pos,1,l10n_be.1_attn_VAT-OUT-21-L,cat_chien_habillements
+5060341660108,WILD WASH DETANGLE 300ML,PRODUITS,9.05,18.4,18.4,SOINS,sup_wild_wash,Wild Wash,product,point_of_sale.product_category_pos,1,l10n_be.1_attn_VAT-OUT-21-L,cat_chien_habillements
+5060341661488,WILD WASH FLEA X BUG REPELLENT 300ML,PRODUITS,8.55,16.95,14.0083,SOINS,sup_wild_wash,Wild Wash,product,point_of_sale.product_category_pos,1,l10n_be.1_attn_VAT-OUT-21-L,cat_chien_habillements
+96110348,WILD WASH MAGICAL BALM 60ML,PRODUITS,6.75,13.95,11.5289,SOINS,sup_wild_wash,Wild Wash,product,point_of_sale.product_category_pos,1,l10n_be.1_attn_VAT-OUT-21-L,cat_chien_habillements
+5060341660085,WILD WASH PERFUME N1,PRODUITS,8.55,16.95,14.0083,SOINS,sup_wild_wash,Wild Wash,product,point_of_sale.product_category_pos,1,l10n_be.1_attn_VAT-OUT-21-L,cat_chien_habillements
+5060341660092,WILD WASH PERFUME N2,PRODUITS,8.55,16.95,14.0083,SOINS,sup_wild_wash,Wild Wash,product,point_of_sale.product_category_pos,1,l10n_be.1_attn_VAT-OUT-21-L,cat_chien_habillements
+5060341660252,WILD WASH PERFUME N3,PRODUITS,8.55,16.95,14.0083,SOINS,sup_wild_wash,Wild Wash,product,point_of_sale.product_category_pos,1,l10n_be.1_attn_VAT-OUT-21-L,cat_chien_habillements
+5060341660030,WILD WASH SHAMPOO DEEP CLEANING DEODORISING,PRODUITS,8.55,16.95,14.0083,SOINS,sup_wild_wash,Wild Wash,product,point_of_sale.product_category_pos,1,l10n_be.1_attn_VAT-OUT-21-L,cat_chien_habillements
+5060341660009,WILD WASH SHAMPOO FOR DARK AND GREASY COATS 3,PRODUITS,8.55,16.95,14.0083,SOINS,sup_wild_wash,Wild Wash,product,point_of_sale.product_category_pos,1,l10n_be.1_attn_VAT-OUT-21-L,cat_chien_habillements
+5060341660016,WILD WASH SHAMPOO FOR LIGHT COLOURED COATS 30,PRODUITS,8.55,16.95,14.0083,SOINS,sup_wild_wash,Wild Wash,product,point_of_sale.product_category_pos,1,l10n_be.1_attn_VAT-OUT-21-L,cat_chien_habillements
+5060341660054,WILD WASH SHAMPOO FRAGRANCE N1,PRODUITS,8.55,16.95,14.0083,SOINS,sup_wild_wash,Wild Wash,product,point_of_sale.product_category_pos,1,l10n_be.1_attn_VAT-OUT-21-L,cat_chien_habillements
+5060341660061,WILD WASH SHAMPOO FRAGRANCE N2,PRODUITS,8.55,16.95,14.0083,SOINS,sup_wild_wash,Wild Wash,product,point_of_sale.product_category_pos,1,l10n_be.1_attn_VAT-OUT-21-L,cat_chien_habillements
+5060341660245,WILD WASH SHAMPOO FRAGRANCE N3,PRODUITS,8.55,16.95,14.0083,SOINS,sup_wild_wash,Wild Wash,product,point_of_sale.product_category_pos,1,l10n_be.1_attn_VAT-OUT-21-L,cat_chien_habillements
+5060341660047,WILD WASH SHAMPOO SOFT 300ML,PRODUITS,8.55,16.95,14.0083,SOINS,sup_wild_wash,Wild Wash,product,point_of_sale.product_category_pos,1,l10n_be.1_attn_VAT-OUT-21-L,cat_chien_habillements
+4000498028131,FLEXI NEW COMFORT TAPE 5M S,ACCESSOIRES,,22.95,18.9669,LAISSES,sup_vadigran,Flexi,product,point_of_sale.product_category_pos,1,l10n_be.1_attn_VAT-OUT-21-L,cat_chien_habillements
+5411468206487,RIZI PURE 3.5KG,ALIMENTATION,10.94,21.99,18.1736,SEC,sup_vadigran,Vadigran,product,point_of_sale.product_category_pos,1,l10n_be.1_attn_VAT-OUT-21-L,cat_chien_habillements
+5411468121575,RIZI PURE 800G,ALIMENTATION,2.88,5.99,4.9504,SEC,sup_vadigran,Vadigran,product,point_of_sale.product_category_pos,1,l10n_be.1_attn_VAT-OUT-21-L,cat_chien_habillements
+5411468112184,RIZI VEGGIES 1KG,ALIMENTATION,4,7.99,6.6033,SEC,sup_vadigran,Vadigran,product,point_of_sale.product_category_pos,1,l10n_be.1_attn_VAT-OUT-21-L,cat_chien_habillements
+5411468206500,RIZI VEGGIES 4.5KG,ALIMENTATION,14.89,28.99,23.9587,SEC,sup_vadigran,Vadigran,product,point_of_sale.product_category_pos,1,l10n_be.1_attn_VAT-OUT-21-L,cat_chien_habillements

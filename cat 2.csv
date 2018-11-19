@@ -1,0 +1,13 @@
+Name,None,Parent category,Sequence
+Sac isotherme,,Consommable,20
+Sac kraft,,Consommable,40
+Sac coton,,Consommable,60
+Livraison gratuite +85,,Livraison,80
+Livraison 7.50 -85,,Livraison,100
+Joyeux Anniversaire,,Bon cadeau,120
+Felicitation,,Bon cadeau,140
+Merci,,Bon cadeau,160
+Avec plaisir,,Bon cadeau,180
+Bonne Fete ,,Bon cadeau,200
+Homme,,Bottes en Caoutchou,20
+Femme,,Bottes en Caoutchou,40

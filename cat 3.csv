@@ -1,0 +1,129 @@
+Name,None,Parent category,Sequence
+Croquettes ,,Alimentation,20
+Humide,,Alimentation,40
+Congele,,Alimentation,60
+Friandises,,Alimentation,80
+Complements alimentaire,,Parapharmacie,100
+Usage unique,,Parapharmacie,120
+Back On Track ,,Parapharmacie,140
+Equipement medical,,Parapharmacie,160
+Laisses,,Sellerie,180
+Harnais ,,Sellerie,200
+Colliers,,Sellerie,220
+Accessoires divers,,Sellerie,240
+Bijoux,,Sellerie,260
+Medailles,,Sellerie,280
+Paniers ,,Coussinerie,300
+Coussins,,Coussinerie,320
+Tipi - Igloo,,Coussinerie,340
+Meuble panier,,Coussinerie,360
+Plaids,,Coussinerie,380
+Accessoires voiture,,Transport,400
+Sacs a main,,Transport,420
+Sacs a dos,,Transport,440
+Pousettes ,,Transport,460
+Cages de maison,,Cage,480
+Enclos - Parc,,Cage,500
+Cage de transport speciale voiture,,Cage,520
+Cage de transport speciale avion,,Cage,540
+Balles,,Jouets,560
+Peluches,,Jouets,580
+Naturel,,Jouets,600
+Divers,,Jouets,620
+Porte sac a crottes,,Produits hygiene exterieur,640
+Sacs a crottes,,Produits hygiene exterieur,660
+Divers,,Produits hygiene exterieur,680
+Droguerie,,Produits hygiene maison - Droguerie,700
+Produits entretien ,,Produits hygiene maison - Droguerie,720
+Usage unique,,Produits hygiene maison - Droguerie,740
+Shamppoing ,,Grooming,760
+Soins,,Grooming,780
+Brosses,,Grooming,800
+Serviettes et textiles divers,,Grooming,820
+Manteaux,,Habillements,840
+Deguisements,,Habillements,860
+Chaussures,,Habillements,880
+Accessoires,,Habillements,900
+Livres,,Librairie,920
+Gamelle simple,,Gamelles,940
+Double gamelle,,Gamelles,960
+Porte gamelles,,Gamelles,980
+Fontaine a eau,,Gamelles,1000
+Anti-glouton,,Gamelles,1020
+Transportable,,Gamelles,1040
+Pot a croquettes,,Stockage Alimentaire,1060
+pot a friandises,,Stockage Alimentaire,1080
+Accessoires,,Stockage Alimentaire,1100
+,,Divers,1120
+Electronique,,Education,1140
+Divers,,Education,1160
+Course,,Sport,1180
+Velo,,Sport,1200
+Aquatique,,Sport,1220
+Agility,,Sport,1240
+Randonnee,,Sport,1260
+Croquettes,,Alimentation,20
+Humide,,Alimentation,40
+Congele,,Alimentation,60
+Friandises,,Alimentation,80
+Complements alimentaire,,Parapharmacie,100
+Usage unique,,Parapharmacie,120
+Back on Track ,,Parapharmacie,140
+Equipement medical,,Parapharmacie,160
+Laisses,,Sellerie,180
+Harnais ,,Sellerie,200
+Colliers,,Sellerie,220
+Accessoires divers,,Sellerie,240
+Bijoux,,Sellerie,260
+Medailles,,Sellerie,280
+Paniers ,,Coussinerie,300
+Coussins,,Coussinerie,320
+Tipi - Igloo,,Coussinerie,340
+Meuble panier,,Coussinerie,360
+Plaids,,Coussinerie,380
+Sac de transport,,Transport,400
+Sac a dos,,Transport,420
+Cage de transport,,Transport,440
+Arbre a chat petit,,Grattoir et arbre a chat,460
+Arbre a chat grand ,,Grattoir et arbre a chat,480
+Grattoir,,Grattoir et arbre a chat,500
+Avec catnip,,Jouets,520
+Sans catnip,,Jouets,540
+Electronique,,Jouets,560
+Divers,,Jouets,580
+Bac a litiere,,Litiere,600
+Litiere,,Litiere,620
+Accessoires,,Litiere,640
+Droguerie,,Produits hygiene maison - Droguerie,660
+Usage unique,,Produits hygiene maison - Droguerie,680
+Produits entretien ,,Produits hygiene maison - Droguerie,700
+Shamppoing ,,Grooming,720
+Soins,,Grooming,740
+Brosses,,Grooming,760
+Serviettes et textiles divers,,Grooming,780
+Accessoires divers,,Grooming,800
+Manteaux pour Sphynx,,Habillements,820
+Deguisement,,Habillements,840
+Livres,,Librairie,860
+Gamelle simple,,Gamelles,880
+Double gamelle,,Gamelles,900
+Porte gamelles,,Gamelles,920
+Fontaine a eau ,,Gamelles,940
+Anti-glouton,,Gamelles,960
+Pots a croquettes,,Stockage alimentaire,980
+Pots a friandises,,Stockage alimentaire,1000
+Accessoires,,Stockage alimentaire,1020
+,,Divers,1040
+Plantes en pot ,,Herbe a chat,1060
+Sac isotherme,,Consommable,20
+Sac kraft,,Consommable,40
+Sac coton,,Consommable,60
+Livraison gratuite +85,,Livraison,80
+Livraison 7.50 -85,,Livraison,100
+Joyeux Anniversaire,,Bon cadeau,120
+Felicitation,,Bon cadeau,140
+Merci,,Bon cadeau,160
+Avec plaisir,,Bon cadeau,180
+Bonne Fete ,,Bon cadeau,200
+Homme,,Bottes en Caoutchou,20
+Femme,,Bottes en Caoutchou,40

@@ -1,0 +1,40 @@
+Name,id,parent category/id,Sequence
+Alimentation,cat_chien_alimentation,cat_chien,20
+Parapharmacie,cat_chien_parapharmacie,cat_chien,40
+Grooming,cat_chien_grooming,cat_chien,60
+Sellerie,cat_chien_sellerie,cat_chien,80
+Coussinerie,cat_chien_coussinerie,cat_chien,100
+Habillements,cat_chien_habillements,cat_chien,120
+Jouets,cat_chien_jouets,cat_chien,140
+Gamelles,cat_chien_gamelles,cat_chien,160
+Stockage alimentaire,cat_chien_stockage_alimentaire,cat_chien,180
+Transport,cat_chien_transport,cat_chien,200
+Cage,cat_chien_cage,cat_chien,220
+Sport,cat_chien_sport,cat_chien,240
+Education,cat_chien_education,cat_chien,260
+Produits hygiene exterieur,cat_chien_produits_hygiene_exterieur,cat_chien,280
+Produits hygiene maison - Droguerie,cat_chien_produits_hygiene_maison_droguerie,cat_chien,300
+Librairie,cat_chien_librairie,cat_chien,320
+Divers,cat_chien_divers,cat_chien,340
+Alimentation,cat_chat_alimentation,cat_chat,20
+Parapharmacie,cat_chat_parapharmacie,cat_chat,40
+Grooming,cat_chat_grooming,cat_chat,60
+Produits soins et hygiene ,cat_chat_produits_soins_et_hygiene_,cat_chat,80
+Sellerie,cat_chat_sellerie,cat_chat,100
+Coussinerie,cat_chat_coussinerie,cat_chat,120
+Habillements,cat_chat_habillements,cat_chat,140
+Grattoir et arbre a chat,cat_chat_grattoir_et_arbre_a_chat,cat_chat,160
+Jouets,cat_chat_jouets,cat_chat,180
+Gamelles ,cat_chat_gamelles_,cat_chat,200
+Stockage alimentaire,cat_chat_stockage_alimentaire,cat_chat,220
+Herbe a chat,cat_chat_herbe_a_chat,cat_chat,240
+Transport,cat_chat_transport,cat_chat,260
+Litiere,cat_chat_litiere,cat_chat,280
+Produits hygiene maison - Droguerie,cat_chat_produits_hygiene_maison_droguerie,cat_chat,300
+Librairie,cat_chat_librairie,cat_chat,320
+Divers,cat_chat_divers,cat_chat,340
+Consommable,cat_boutique_consommable,cat_boutique,20
+Livraison,cat_boutique_livraison,cat_boutique,40
+Bon cadeau,cat_boutique_bon_cadeau,cat_boutique,60
+Bottes en Caoutchouc,cat_femme_homme_bottes_en_caoutchouc,cat_femme_homme,20
+Sacs,cat_femme_homme_sacs,cat_femme_homme,40

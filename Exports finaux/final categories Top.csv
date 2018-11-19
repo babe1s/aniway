@@ -1,0 +1,5 @@
+Name,id,ID Parent,Sequence
+Chien,cat_chien,,20
+Chat,cat_chat,,40
+Femme Homme,cat_femme_homme,,60
+Boutique,cat_boutique,,80
